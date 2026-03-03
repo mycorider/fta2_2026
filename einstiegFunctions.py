@@ -1,0 +1,1 @@
+print("Einstiegsbeispiel zum Thema Functions in Python")
